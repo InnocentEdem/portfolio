@@ -55,7 +55,7 @@ body{
 .social{
     margin: 2vh;
 }
-.social>img{
+a>img{
     display: inline-block;
     width: 25px;
     height: auto;
